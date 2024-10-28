@@ -1,5 +1,5 @@
 import React from "react";
-import MenuItem from "./MenuItem";
+
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 
